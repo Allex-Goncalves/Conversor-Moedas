@@ -29,8 +29,6 @@ This is a Java-based terminal application that allows users to convert currencie
 - │││ │ │ ├── ApiIntegration.java <span style="color:yellow;"># Handles API requests</span> 
 - │││ │ │ ├── DollarConverter.java <span style="color:yellow;"># Handles USD conversions</span> 
 - │││ │ │ ├── EuroConverter.java <span style="color:yellow;"># Handles EUR conversions</span>
-- │││ │ └── resources/
-- │└── test/
 - ├── .gitgnore <span style="color:yellow;"># File to ignore files and directories in Git</span>
 - ├── pom.xml <span style="color:yellow;"># Maven project configuration</span>
 - └── README.md <span style="color:yellow;"># Project documentation</span>
