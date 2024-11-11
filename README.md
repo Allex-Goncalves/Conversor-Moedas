@@ -1,6 +1,6 @@
 # Currency Converter Application
 
-This is a Java-based terminal application that allows users to convert currencies in real-time and visualize historical exchange rate data. The application uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch current exchange rates and display a graph with the historical exchange rates.
+This is a Java-based terminal application that allows users to convert currencies in real-time. The application uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch current exchange rates and display a graph with the historical exchange rates.
 
 ## Features
 
