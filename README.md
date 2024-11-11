@@ -6,7 +6,6 @@ This is a Java-based terminal application that allows users to convert currencie
 
 - **Real-Time Currency Conversion**: Convert currencies like USD, EUR, BRL, ARS, and COP.
 - **User-Friendly Terminal Menu**: Navigate through an intuitive terminal menu for selecting currency pairs.
-- **Historical Data Visualization**: Display a line graph with the historical exchange rates for the last year.
 - **Object-Oriented Design**: The application follows object-oriented design principles with a modular structure.
 - **Extensible Architecture**: Easily extend the application to add new currency pairs or conversion features.
 
